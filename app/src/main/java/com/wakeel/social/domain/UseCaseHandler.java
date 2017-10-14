@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.wakeel.social.base.domain;
+package com.wakeel.social.data.domain;
 
 /**
  * Runs {@link UseCase}s using a {@link UseCaseScheduler}.

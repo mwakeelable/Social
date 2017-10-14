@@ -1,4 +1,4 @@
-package com.wakeel.social.base.presentation;
+package com.wakeel.social.data.presentation;
 
 public interface BaseView<T extends BasePresenter> {
 

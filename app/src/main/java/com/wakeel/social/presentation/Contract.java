@@ -1,4 +1,4 @@
-package com.wakeel.social.base.presentation;
+package com.wakeel.social.data.presentation;
 
 public interface Contract {
     public interface View extends BaseView<Presenter> {

@@ -1,4 +1,4 @@
-package com.wakeel.social.base.domain;
+package com.wakeel.social.data.domain;
 
 
 public abstract class UseCase <Q extends UseCase.RequestValues, P extends UseCase.ResponseValue> {

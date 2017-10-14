@@ -1,4 +1,4 @@
-package com.wakeel.social.base.presentation;
+package com.wakeel.social.data.presentation;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -6,12 +6,12 @@ import android.support.v7.widget.Toolbar;
 
 import com.wakeel.social.R;
 
-public class LoginActivity extends AppCompatActivity {
+public class SplashActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_splash);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
     }

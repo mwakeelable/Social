@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wakeel.social.base.presentation.MainActivity">
+    tools:context="com.wakeel.social.data.presentation.MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

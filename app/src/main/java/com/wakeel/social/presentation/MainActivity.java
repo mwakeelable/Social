@@ -1,4 +1,4 @@
-package com.wakeel.social.base.presentation;
+package com.wakeel.social.data.presentation;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
